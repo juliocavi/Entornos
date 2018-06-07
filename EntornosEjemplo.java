@@ -7,16 +7,13 @@
  */
 public class EntornosEjemplo
 {
-    // instance variables - replace the example below with your own
-    private int x;
-
+    
     /**
      * Constructor for objects of class EntornosEjemplo
      */
     public EntornosEjemplo()
     {
-        // initialise instance variables
-        x = 0;
+        
     }
 
     /**
@@ -25,9 +22,8 @@ public class EntornosEjemplo
      * @param  y  a sample parameter for a method
      * @return    the sum of x and y
      */
-    public int sampleMethod(int y)
+    public void sampleMethod()
     {
-        // put your code here
-        return x + y;
+        
     }
 }
